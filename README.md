@@ -45,7 +45,11 @@ hasil output di web server maka terjadi error 404 file not found karena file/pag
 
 membuat Controller page.php pada direktori Controller :
 
+![image](https://user-images.githubusercontent.com/81596397/121985159-6d875c80-cdbe-11eb-8035-a8914342fe6f.png)
+
 ![Screenshot (97)](https://user-images.githubusercontent.com/81596397/121983141-0916ce00-cdbb-11eb-8bff-935f994faa00.png)
+
+![image](https://user-images.githubusercontent.com/81596397/121985398-e090d300-cdbe-11eb-9280-2e4da98871cd.png)
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/81596397/121983147-0ae09180-cdbb-11eb-8f94-5c14bf7a10b7.png)
 
