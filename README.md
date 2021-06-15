@@ -66,3 +66,36 @@ membuat Controller page.php pada direktori Controller :
 ![image](https://user-images.githubusercontent.com/81596397/121984741-b854a480-cdbd-11eb-9e41-57f5570f2c94.png)
 
 ![image](https://user-images.githubusercontent.com/81596397/121984750-c1457600-cdbd-11eb-8b68-31f1354d4fc8.png)
+
+Update Tugas 11
+
+Membuat Database
+
+![image](https://user-images.githubusercontent.com/81596397/122088897-69942280-ce30-11eb-8065-0783356e1606.png)
+
+Konfigurasi koneksi database
+
+![image](https://user-images.githubusercontent.com/81596397/122089800-55045a00-ce31-11eb-9517-803e9a45eaa4.png)
+
+Membuat Model
+
+![image](https://user-images.githubusercontent.com/81596397/122090294-d22fcf00-ce31-11eb-98df-8a6a90e9f3b0.png)
+
+Membuat Controller
+
+![image](https://user-images.githubusercontent.com/81596397/122090387-eb388000-ce31-11eb-9db6-3d1dc640cc63.png)
+
+Membuat View
+
+![image](https://user-images.githubusercontent.com/81596397/122090838-6437d780-ce32-11eb-8a99-64a6ef8fea66.png)
+
+HAsil output
+
+![image](https://user-images.githubusercontent.com/81596397/122091377-ecb67800-ce32-11eb-809a-4a3e40a99ee3.png)
+
+tambahkan beberapa data pada
+database agar dapat ditampilkan datanya.
+
+![image](https://user-images.githubusercontent.com/81596397/122091589-28514200-ce33-11eb-9514-b5f19e42fe3f.png)
+
+
