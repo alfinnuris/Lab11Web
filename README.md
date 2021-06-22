@@ -98,4 +98,21 @@ database agar dapat ditampilkan datanya.
 
 ![image](https://user-images.githubusercontent.com/81596397/122091589-28514200-ce33-11eb-9514-b5f19e42fe3f.png)
 
+hasil 
+
+![image](https://user-images.githubusercontent.com/81596397/122912746-dd7b8100-d382-11eb-97b0-f949602fb539.png)
+
+Membuat View Detail dengan nama app/views/artikel/detail.php :
+
+![image](https://user-images.githubusercontent.com/81596397/122913345-82965980-d383-11eb-9bfa-18821c93c453.png)
+
+![image](https://user-images.githubusercontent.com/81596397/122913441-9f329180-d383-11eb-9d94-a1ad3e7f728c.png)
+
+![image](https://user-images.githubusercontent.com/81596397/122913900-3e578900-d384-11eb-8919-23ec98cc07ea.png)
+
+Hasil
+
+![image](https://user-images.githubusercontent.com/81596397/122913946-4fa09580-d384-11eb-9913-78db5b0ae237.png)
+
+
 
